@@ -1,0 +1,19 @@
+{
+  "name": "cyclic-dependency-detector",
+  "version": "1.0.0",
+  "description": "Detects cyclic dependency among module & it's dependencies",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanketmeghani/node-cyclic-dependency-detector.git"
+  },
+  "author": "sanket.meghani@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanketmeghani/node-cyclic-dependency-detector/issues"
+  },
+  "homepage": "https://github.com/sanketmeghani/node-cyclic-dependency-detector#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
